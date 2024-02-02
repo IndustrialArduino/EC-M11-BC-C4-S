@@ -26,5 +26,5 @@ Thermocouple input (K-type)
 2:   Black:   NC
 3:   Brown:   Solar Panel -
 
-Datasheet:   https://drive.google.com/open?id=1xhSHQkS9SO4W6_6_k_z6jzjZiVXkM1tM&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1wIBn9YX27JvENC3MznHBRO3-9JAZlX6b&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ec-m11-bc-c4-s-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ec-m11-bc-c4-s-user-guide/
